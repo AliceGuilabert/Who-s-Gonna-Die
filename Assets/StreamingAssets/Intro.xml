@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue>
+  <Nodes>
+    <DialogueNode>
+      <NodeID>0</NodeID>
+      <Text> . . . </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>1</NodeID>
+	  <Text>FG6432…. Tu m’as beaucoup déçu.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>2</NodeID>
+      <Text>Tu n’as pas rempli tes objectifs de décès et tu le sais. </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>3</NodeID>
+	  <Text>Tu ne me laisses pas le choix. Je dois te mettre à l’épreuve.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>4</NodeID>
+      <Text>Désormais, tu rajeuniras quand tu n’atteindras pas ton objectif…</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>5</NodeID>
+	  <Text>…. Et tu vieilliras quand tu le dépasseras.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>6</NodeID>
+      <Text>Peut-être que si tu survis assez longtemps, je daignerai te rendre ton immortalité.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>7</NodeID>
+	  <Text>En attendant, du balai ! La M.O.R.T n'attend pas.</Text>
+    </DialogueNode>
+  </Nodes>
+</Dialogue>

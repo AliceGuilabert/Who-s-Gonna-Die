@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue>
+  <Nodes>
+    <DialogueNode>
+      <NodeID>0</NodeID>
+      <Text> . . . </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>1</NodeID>
+	  <Text>J'ai peut-être été un poil trop... gentil. </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>2</NodeID>
+      <Text>Stupides terriens ! Comment suis-je censé prévoir ça ? </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>3</NodeID>
+	  <Text>Jusqu'ici, tout va bien.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>4</NodeID>
+      <Text>On à qu'à dire que ça compense ma dernière bourde.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>5</NodeID>
+	  <Text>Chouette ! Je vais redevenir adulte.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>6</NodeID>
+      <Text>J'ai mal au dos, j'ai pas intérêt à me louper sur ce coup là.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>7</NodeID>
+	  <Text>Youpi, le centre-ville ! Où est le parc ?</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>8</NodeID>
+      <Text>Réfléchis... Prends ton temps...</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>9</NodeID>
+	  <Text>Je suis trop vieux pour ça, je n'ai pas la force...</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>10</NodeID>
+      <Text>Comment ça marche ? J'en ai aucune idée !</Text>
+    </DialogueNode>
+  </Nodes>
+</Dialogue>

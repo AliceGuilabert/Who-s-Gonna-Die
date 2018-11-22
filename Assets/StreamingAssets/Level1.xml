@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Dialogue>
+  <Nodes>
+    <DialogueNode>
+      <NodeID>0</NodeID>
+      <Text> . . . </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>1</NodeID>
+	  <Text>J'ai peut-être été un poil trop... gentil. </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>2</NodeID>
+      <Text>Stupides terriens ! Comment suis-je censé prévoir ça ? </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>3</NodeID>
+	  <Text>Jusqu'ici, tout va bien.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>4</NodeID>
+      <Text>Je ne sais pas si je préfère les chiens ou les humains... </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>5</NodeID>
+	  <Text>Mmmmh... Et si j'utilisais ceux là pour remplir mon quota ? </Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>6</NodeID>
+      <Text>Le conducteur devrait avoir le temps de réagir.</Text>
+	  </DialogueNode>
+	  <DialogueNode>
+	  <NodeID>7</NodeID>
+	  <Text>Ce chien n'a pas l'air très gentil... Je peux peut-être l'amadouer ?</Text>
+    </DialogueNode>
+  </Nodes>
+</Dialogue>
